@@ -1,6 +1,6 @@
 # provider_arc
 
-A new Flutter project.
+A new Flutter project com login usando provider 3.
 
 ## Getting Started
 
